@@ -16,3 +16,8 @@ This GitHub website redirects all my personal GitHub repositories to a demo subd
 - [LinupWeb](https://demos.matthewbenchimol.com/LinupWeb/LinupWeb.html)
 - [UpDownWeb](https://demos.matthewbenchimol.com/UpDownWeb/UpDownWeb.html)
 - [UltraWeb](http://demos.matthewbenchimol.com/UltraWeb/UltraWeb.html)
+- [HelioWeb](http://demos.matthewbenchimol.com/HelioWeb/HelioWeb.html)
+- [HollyWeb](http://demos.matthewbenchimol.com/HollyWeb/HollyWeb.html)
+- [TopWeb](http://demos.matthewbenchimol.com/TopWeb/TopWeb.html)
+- [BrickWeb](http://demos.matthewbenchimol.com/BrickWeb/BrickWeb.html)
+- [RetroGradeEmulator](http://demos.matthewbenchimol.com/RetroGradeEmulator/RetroGradeEmulator.html)
