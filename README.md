@@ -1,7 +1,11 @@
 # GitHub Website Redirect
 This GitHub website redirects all my personal GitHub repositories to a demo subdomain, allowing visitors to view my code without having to visit my GitHub social media account. It also allows visitors to see interactive demos of my project from their browser.
 
-### All my personal repositories redirect to https://demos.matthewbenchimol.com/[insert path here]
+### To easily view all demos visit: https://demos.matthewbenchimol.com/
+
+### All my personal repositories redirect to: https://demos.matthewbenchimol.com/**insert path here**
+
+### Catalog to add to BenchtopWeb: https://raw.githubusercontent.com/mdbench/mdbench.github.io/refs/heads/main/static/data/catalog.json
 
 ## My Personal Repository Demo Catalog
 - [This Repo](https://demos.matthewbenchimol.com/)
@@ -21,3 +25,6 @@ This GitHub website redirects all my personal GitHub repositories to a demo subd
 - [TopWeb](http://demos.matthewbenchimol.com/TopWeb/TopWeb.html)
 - [BrickWeb](http://demos.matthewbenchimol.com/BrickWeb/BrickWeb.html)
 - [RetroGradeEmulator](http://demos.matthewbenchimol.com/RetroGradeEmulator/RetroGradeEmulator.html)
+
+## Want to know more about me?
+Visit my website at: [matthewbenchimol.com](https://matthewbenchimol.com/)
